@@ -196,7 +196,7 @@
     display:content;
     flex-direction: column;
     justify-content: center;
-    text-align: center;
+    text-align: justify;
     background: #FFFFFF;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
