@@ -193,7 +193,7 @@
 .service-item {
      
     padding: 30px;
-    display: flex;
+    display:content;
     flex-direction: column;
     justify-content: center;
     text-align: center;
